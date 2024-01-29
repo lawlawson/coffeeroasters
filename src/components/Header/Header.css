@@ -1,0 +1,6 @@
+.bg-image {
+  background-image: url(../../assets/home/mobile/image-hero-coffeepress.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
