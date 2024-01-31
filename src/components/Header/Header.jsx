@@ -18,7 +18,9 @@ const Header = () => {
             expertly curated artisan coffees from our best roasters delivered
             directly to your door, at your schedule.
           </p>
-          <button>Create your plan</button>
+          <button className='bg-green-500 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline hover:bg-green-600'>
+            Create your plan
+          </button>
         </div>
       </div>
     </div>
